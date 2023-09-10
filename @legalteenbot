@@ -1,0 +1,11 @@
+<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="publicbarsex_teensexpicher/4" data-width="100%"></script>// Octokit.js
+// https://github.com/octokit/core.js#readme
+const octokit = new Octokit({
+  auth: 'YOUR-TOKEN'
+})
+
+await octokit.request('GET /', {
+  headers: {
+    'X-GitHub-Api-Version': '2022-11-28'
+  }
+})
